@@ -7,9 +7,9 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction:row;
+   flex-direction: column;
    flex-wrap:wrap;
-   justify-content: space-round;
+   justify-content: center;
    text-align: center;
    
   
@@ -80,7 +80,7 @@ background-size: 0;
 background: linear-gradient(pink,blue);
 color:green;
 padding:15px 20px
-margin-left:20px;
+margin:0px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
