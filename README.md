@@ -107,35 +107,36 @@ background:gray;
 <!-- this div is the main div container -->
 <div class="container">
 <!-- the children div begin from here -->
-<div class="bio">
 <a href="https://emiblezz.github.io/my-Bio-Data/">
+<div class="bio">
 <h>MY PERSONAL INFORMATION</h>
-</a>
 </div>
+</a>
 
-   <div class="photo">
    <a href="https://emiblezz.github.io/my-photo/">
+   <div class="photo">
    <h>MY PHOTO</h>
-   </a>
    </div>
+   </a>
    
+   <a href="https://emiblezz.github.io/my-education/">
       <div class="education">
-      <a href="https://emiblezz.github.io/my-education/">
       <h>MY EDUCATION BACKGROUND</h>
-      </a>
       </div>
+      </a>
       
+      <a href="https://emiblezz.github.io/hobbies/">
          <div class="hobbies">
-         <a href="https://emiblezz.github.io/hobbies/">
          <h>MY HOBBIES</h>
+          </div>
          </a>
-         </div>
-         
-            <div class="contact">
+        
          <a href="https://emiblezz.github.io/CONTACTS-FORM/">
+            <div class="contact">
             <h>CONTACT US</h>
-         </a>
             </div>
+         </a>
+            
 </div>
 </body>
 </html>
