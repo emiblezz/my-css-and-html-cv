@@ -107,7 +107,12 @@ background:gray;
 <!-- this div is the main div container -->
 <div class="container">
 <!-- the children div begin from here -->
-<div class="bio"><h>MY PERSONAL INFORMATION</h></div>
+<div class="bio">
+<a href="https://emiblezz.github.io/my-Bio-Data/">
+<h>MY PERSONAL INFORMATION</h>
+</a>
+</div>
+
    <div class="photo">
    <a href="https://emiblezz.github.io/my-photo/">
    <h>MY PHOTO</h>
