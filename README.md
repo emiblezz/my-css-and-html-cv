@@ -18,8 +18,8 @@
 .bio {
 background-size:0 auto;
 background-color: red;
-width:100%;
-height:6000px;
+width:50%;
+height:4000px;
 color:blue;
 padding:15px 20px;
 margin-top:0px;
