@@ -7,13 +7,9 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction: column;
+   flex-direction: row;
    flex-wrap:wrap;
    justify-content: center;
-   text-align: center;
-   
-  
-   
 } 
 .bio {
 background-size:0 auto;
@@ -26,6 +22,7 @@ margin:0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
+position: relative;
 } 
 .bio:hover{
 background-color:green;
@@ -40,7 +37,8 @@ width:50%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
-box-sizing: border-box;   
+box-sizing: border-box;
+position: relative;
 }
 .education:hover{
 background-color:pink;
@@ -56,6 +54,7 @@ height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
+position: relative;
 }
 .hobbies:hover{
 background-color:chocolate;
@@ -71,6 +70,7 @@ height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
+position: relative;
 }
 .contact:hover{
 background-color:#000;
@@ -86,6 +86,7 @@ height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
+position: relative;
 }
 .photo:hover{
 background:gray;
