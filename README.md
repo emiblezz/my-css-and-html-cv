@@ -108,10 +108,20 @@ background:gray;
 <div class="container">
 <!-- the children div begin from here -->
 <div class="bio"><h>MY PERSONAL INFORMATION</h></div>
-   <div class="photo"><h>MY PHOTO</h></div>
-      <div class="education"><h>MY EDUCATION BACKGROUND</h></div>
+   <div class="photo">
+   <a href="">
+   <h>MY PHOTO</h>
+   </a>
+   </div>
+   
+      <div class="education">
+      <a href="">
+      <h>MY EDUCATION BACKGROUND</h>
+      </a>
+      </div>
+      
          <div class="hobbies">
-         <a href="">
+         <a href="https://emiblezz.github.io/hobbies/">
          <h>MY HOBBIES</h>
          </a>
          </div>
