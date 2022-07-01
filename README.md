@@ -115,7 +115,7 @@ background:gray;
    </div>
    
       <div class="education">
-      <a href="">
+      <a href="https://emiblezz.github.io/my-education/">
       <h>MY EDUCATION BACKGROUND</h>
       </a>
       </div>
