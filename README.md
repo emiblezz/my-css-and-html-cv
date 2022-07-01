@@ -4,11 +4,9 @@
 <style>
 <!-- the main div -->
 .container{
-   width: 100%;
-   height: auto;
    display: flex;
    flex-direction: row;
-   flex-wrap:wrap;
+   flex-wrap: wrap;
    justify-content: center;
 } 
 .bio {
@@ -19,13 +17,11 @@ height:333px;
 color:blue;
 padding:15px 20px;
 margin:0px;
-left:0px;
-bottom:0px;
-top:0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
 position: relative;
+
 } 
 .bio:hover{
 background-color:green;
