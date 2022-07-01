@@ -38,6 +38,7 @@ padding:15px 25px;
 margin:0px;
 width:50%;
 height:333px;
+left: 500px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
