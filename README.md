@@ -21,6 +21,7 @@ box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
 position: relative;
+flex-direction: row;
 
 } 
 .bio:hover{
@@ -39,6 +40,7 @@ box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
 position: relative;
+flex-direction: row;
 }
 .education:hover{
 background-color:pink;
@@ -55,6 +57,7 @@ box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
 position: relative;
+flex-direction: row;
 }
 .hobbies:hover{
 background-color:chocolate;
@@ -71,6 +74,7 @@ box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
 position: relative;
+flex-direction: row;
 }
 .contact:hover{
 background-color:#000;
@@ -87,6 +91,7 @@ box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
 position: relative;
+flex-direction: row;
 }
 .photo:hover{
 background:gray;
