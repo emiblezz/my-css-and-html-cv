@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <!-- my in-line css code-->
 <style>
@@ -19,11 +18,11 @@ background-size:0 auto;
 background-color: #ff0000;
 color:blue;
 padding:15px 20px;
-margin-top:5px;
+margin-top:0px;
 margin-bottom:0px;
 margin-left=12px;
-width:33.33%;
-height:333px;
+width:100%;
+height:400px;
 flex-direction: row;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 } 
@@ -101,7 +100,6 @@ background:gray;
 <head>
    <meta charset="UTF-8">
    <link rel="shortcut icon" type="image/png" href="https://media-exp2.licdn.com/dms/image/C5603AQEjlsgLPej7wA/profile-displayphoto-shrink_200_200/0/1624454506617?e=2147483647&v=beta&t=0vVF6Jpprc4wJWm1BXVWp_OyJB-Kv1D9eGKx4Pd_big">
-   <title>MY PERSONAL CV</title>
 </head>
 <!-- the body -->
 <body>
