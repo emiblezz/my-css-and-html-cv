@@ -3,7 +3,7 @@
 <!-- my in-line css code-->
 <style>
 <!-- the main div -->
-   .container{
+.container{
    width: 100%;
    height: auto;
    display: flex;
@@ -19,7 +19,7 @@ height:333px;
 color:blue;
 padding:15px 20px;
 margin:0px;
-left:20px;
+left:0px;
 bottom:0px;
 top:0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -108,6 +108,7 @@ background:gray;
 <div class="container">
 <!-- the children div begin from here -->
 <a href="https://emiblezz.github.io/my-Bio-Data/">
+</div>
 <div class="bio">
 <h>MY PERSONAL INFORMATION</h>
 </div>
