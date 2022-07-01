@@ -86,7 +86,8 @@ background: linear-gradient(pink,blue);
 color:green;
 padding:15px 20px
 margin:0px;
-left: 575px;
+left: 600px;
+bottom: 200px;
 top:0px;
 width:50%;
 height:333px;
