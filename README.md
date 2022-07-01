@@ -109,7 +109,7 @@ background:gray;
 <!-- the children div begin from here -->
 <div class="bio"><h>MY PERSONAL INFORMATION</h></div>
    <div class="photo">
-   <a href="">
+   <a href="https://emiblezz.github.io/my-photo/">
    <h>MY PHOTO</h>
    </a>
    </div>
