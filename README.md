@@ -13,7 +13,6 @@
   
    
 } 
-<!-- first child div -->
 .bio{
 background-size:0 auto;
 background-color: #ff0000;
@@ -27,7 +26,6 @@ height:333px;
 flex-direction: row;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 } 
-<!-- this makes the flex box change color on hoovering -->
 .bio:hover{
 background-color:green;
 }
