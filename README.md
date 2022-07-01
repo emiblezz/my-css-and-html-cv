@@ -13,9 +13,9 @@
   
    
 } 
-.bio{
+.bio {
 background-size:0 auto;
-background-color: #ff0000;
+background-color: red;
 color:blue;
 padding:15px 20px;
 margin-top:5px;
