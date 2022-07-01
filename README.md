@@ -90,7 +90,7 @@ color:green;
 padding:15px 20px;
 margin-top:0px;
 margin-bottom:0px;
-margin-left:0px;
+margin-left:20px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
