@@ -4,6 +4,8 @@
 <style>
 <!-- the main div -->
 .container{
+   width: 800px;
+   height: auto;
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
