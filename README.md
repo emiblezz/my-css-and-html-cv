@@ -19,7 +19,7 @@
 background-size:0 auto;
 background-color: red;
 width:50%;
-height:400px;
+height:300px;
 color:blue;
 padding:15px 20px;
 margin-top:0px;
