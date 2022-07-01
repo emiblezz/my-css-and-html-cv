@@ -107,9 +107,10 @@ background:gray;
 <body>
 <!-- this div is the main div container -->
 <div class="container">
+</div>
 <!-- the children div begin from here -->
 <a href="https://emiblezz.github.io/my-Bio-Data/">
-</div>
+
 <div class="bio">
 <h>MY PERSONAL INFORMATION</h>
 </div>
