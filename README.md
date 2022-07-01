@@ -10,6 +10,7 @@
    flex-direction:row;
    flex-wrap:wrap;
    justify-content:flow-start;
+   text-align: center;
   
    
 } 
@@ -25,6 +26,7 @@ width:33.33%;
 height:333px;
 flex-direction: row;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
+text-align: center;
 } 
 .bio:hover{
 background-color:green;
