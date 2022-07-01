@@ -12,7 +12,8 @@
    justify-content:flow-start;
   
    
-} <!-- first child div -->
+} 
+<!-- first child div -->
 .bio{
 background-size:0 auto;
 background-color: #ff0000;
@@ -21,8 +22,8 @@ padding:15px 20px;
 margin-top:0px;
 margin-bottom:0px;
 margin-left=12px;
-width:100%;
-height:400px;
+width:50%;
+height:333px;
 flex-direction: row;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 } 
