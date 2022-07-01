@@ -70,6 +70,7 @@ padding:15px 20px;
 margin-top:0px;
 width:50%;
 height:333px;
+left:575px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
@@ -85,6 +86,8 @@ background: linear-gradient(pink,blue);
 color:green;
 padding:15px 20px
 margin:0px;
+left: 575px;
+top:0px;
 width:50%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
