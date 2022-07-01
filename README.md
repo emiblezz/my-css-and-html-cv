@@ -110,8 +110,17 @@ background:gray;
 <div class="bio"><h>MY PERSONAL INFORMATION</h></div>
    <div class="photo"><h>MY PHOTO</h></div>
       <div class="education"><h>MY EDUCATION BACKGROUND</h></div>
-         <div class="hobbies"><h>MY HOBBIES</h></div>
-            <div class="contact"><h>CONTACT US</h></div>
+         <div class="hobbies">
+         <a href="">
+         <h>MY HOBBIES</h>
+         </a>
+         </div>
+         
+            <div class="contact">
+         <a href="https://emiblezz.github.io/CONTACTS-FORM/">
+            <h>CONTACT US</h>
+         </a>
+            </div>
 </div>
 </body>
 </html>
