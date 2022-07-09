@@ -11,6 +11,7 @@
    flex-wrap: wrap;
    justify-content: center;
    float: right;
+   bottom: 15px;
 } 
 .bio {
 background-color: red;
@@ -19,7 +20,6 @@ height:333px;
 color:blue;
 padding:15px 20px;
 margin:0px;
-bottom: 5px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
@@ -37,7 +37,6 @@ margin:0px;
 width:33.33%;
 height:333px;
 left: 0px;
-bottom: 15px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
@@ -51,7 +50,6 @@ background-color: gray;
 color:#fff000;
 padding:15px 25px;
 margin-top:0px;
-bottom: 15px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -70,7 +68,6 @@ margin-top:0px;
 width:33.33%;
 height:333px;
 left:0px;
-bottom: 15px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
@@ -85,7 +82,6 @@ color:green;
 padding:15px 20px
 margin:0px;
 left: 0px;
-bottom: 15px;
 top:0px;
 width:33.33%;
 height:333px;
