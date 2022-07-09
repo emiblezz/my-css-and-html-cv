@@ -16,12 +16,10 @@ background-color: red;
 width:33.33%;
 height:333px;
 color:blue;
-padding: 15px 25px;
-margin:10px;
+margin:0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
-position: relative;
 
 } 
 .bio:hover{
@@ -30,8 +28,7 @@ background-color:green;
 .education{
 background-color: #fff000;
 color:#00ff00;
-padding:200px;
-margin:10px;
+margin:0px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -44,7 +41,6 @@ background-color:pink;
 .hobbies{
 background-color: gray;
 color:#fff000;
-padding:200px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -57,8 +53,7 @@ background-color:chocolate;
 .contact{
 background-color: purple;
 color:green;
-padding:15px 20px;
-margin-top:10px;
+margin-top:0px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -71,8 +66,7 @@ background-color:#000;
 .photo{
 background: linear-gradient(pink,blue);
 color:green;
-padding:15px 20px
-margin:10px;
+margin:0px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
