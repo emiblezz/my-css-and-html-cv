@@ -7,7 +7,7 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction: row;
+   flex-direction: column;
    flex-wrap: wrap;
    justify-content: center;
 } 
