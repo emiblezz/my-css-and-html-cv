@@ -10,6 +10,7 @@
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: flex-start:
+   flex-flow: right;
 } 
 .bio {
 background-color: red;
