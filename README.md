@@ -9,21 +9,18 @@
    display: flex;
    flex-direction: row-reverse;
    flex-wrap: wrap;
-   justify-content: center;
-   float: right;
-   bottom: 15px;
+   justify-content: flex-start:
 } 
 .bio {
 background-color: red;
 width:33.33%;
 height:333px;
 color:blue;
-padding:15px 20px;
-margin:0px;
+padding:200px;
+margin:10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
-position: relative;
 
 } 
 .bio:hover{
@@ -32,15 +29,13 @@ background-color:green;
 .education{
 background-color: #fff000;
 color:#00ff00;
-padding:15px 25px;
-margin:0px;
+padding:200px;
+margin:10px;
 width:33.33%;
 height:333px;
-left: 0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
-position: relative;
 }
 .education:hover{
 background-color:pink;
@@ -48,14 +43,12 @@ background-color:pink;
 .hobbies{
 background-color: gray;
 color:#fff000;
-padding:15px 25px;
-margin-top:0px;
+padding:200px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
-position: relative;
 }
 .hobbies:hover{
 background-color:chocolate;
@@ -64,14 +57,12 @@ background-color:chocolate;
 background-color: purple;
 color:green;
 padding:15px 20px;
-margin-top:0px;
+margin-top:10px;
 width:33.33%;
 height:333px;
-left:0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
-position: relative;
 }
 .contact:hover{
 background-color:#000;
@@ -80,9 +71,7 @@ background-color:#000;
 background: linear-gradient(pink,blue);
 color:green;
 padding:15px 20px
-margin:0px;
-left: 0px;
-top:0px;
+margin:10px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
