@@ -10,6 +10,7 @@
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: center;
+   float: right;
 } 
 .bio {
 background-color: red;
