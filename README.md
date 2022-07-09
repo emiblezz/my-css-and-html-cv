@@ -4,7 +4,7 @@
 <style>
 <!-- the main div -->
 .container{
-   width: 800px;
+   width: 100%;
    height: auto;
    display: flex;
    flex-direction: row;
@@ -12,7 +12,6 @@
    justify-content: center;
 } 
 .bio {
-background-size:0 auto;
 background-color: red;
 width:50%;
 height:333px;
@@ -30,14 +29,13 @@ flex-direction: row;
 background-color:green;
 }
 .education{
-background-size:33.33px;
 background-color: #fff000;
 color:#00ff00;
 padding:15px 25px;
 margin:0px;
-width:50%;
+width:33.33%;
 height:333px;
-left: 500px;
+left: 0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
@@ -48,12 +46,11 @@ flex-direction: row;
 background-color:pink;
 }
 .hobbies{
-background-size: 0 auto;
 background-color: gray;
 color:#fff000;
 padding:15px 25px;
 margin-top:0px;
-width:50%;
+width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
@@ -65,14 +62,13 @@ flex-direction: row;
 background-color:chocolate;
 }
 .contact{
-background-size: 15px;
 background-color: purple;
 color:green;
 padding:15px 20px;
 margin-top:0px;
-width:50%;
+width:33.33%;
 height:333px;
-left:575px;
+left:0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
@@ -83,15 +79,14 @@ flex-direction: row;
 background-color:#000;
 }
 .photo{
-background-size: 0;
 background: linear-gradient(pink,blue);
 color:green;
 padding:15px 20px
 margin:0px;
-left: 600px;
-bottom: 200px;
+left: 0px;
+bottom: 0px;
 top:0px;
-width:50%;
+width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
