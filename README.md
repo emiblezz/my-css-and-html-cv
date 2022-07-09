@@ -16,11 +16,12 @@ background-color: red;
 width:33.33%;
 height:333px;
 color:blue;
-padding:200px;
+padding: 15px 25px;
 margin:10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 box-sizing: border-box;
+position: relative;
 
 } 
 .bio:hover{
