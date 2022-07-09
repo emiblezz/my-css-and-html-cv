@@ -16,7 +16,7 @@ background-color: red;
 width:33.33%;
 height:333px;
 color:blue;
-margin:0px;
+margin:10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 
@@ -27,7 +27,7 @@ background-color:green;
 .education{
 background-color: #fff000;
 color:#00ff00;
-margin:0px;
+margin:10px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -40,6 +40,7 @@ background-color:pink;
 background-color: gray;
 color:#fff000;
 width:33.33%;
+margin:10px;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
@@ -50,7 +51,7 @@ background-color:chocolate;
 .contact{
 background-color: purple;
 color:green;
-margin-top:0px;
+margin:10px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -62,12 +63,11 @@ background-color:#000;
 .photo{
 background: linear-gradient(pink,blue);
 color:green;
-margin:0px;
+margin:10px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
-box-sizing: border-box;
 }
 .photo:hover{
 background:gray;
