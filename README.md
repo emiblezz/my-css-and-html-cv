@@ -6,9 +6,6 @@
 .container{
    width: 100%;
    height: auto;
-   display: flex;
-   flex-direction: row;
-   box-shadow:0px 10px 10px rgba(0,0,0,0.6);
    } 
 .bio {
 background-color: red;
