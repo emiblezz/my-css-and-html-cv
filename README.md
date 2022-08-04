@@ -15,6 +15,7 @@ background-color: red;
 width:33.33%;
 height:333px;
 color:blue;
+box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
    } 
 .bio:hover{
 background-color:green;
@@ -24,6 +25,7 @@ background-color: #fff000;
 color:#00ff00;
 width:33.33%;
 height:333px;
+box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
 .education:hover{
 background-color:pink;
@@ -33,6 +35,7 @@ background-color: gray;
 color:#fff000;
 width:33.33%;
 height:333px;
+box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
 .hobbies:hover{
 background-color:chocolate;
@@ -42,6 +45,7 @@ background-color: purple;
 color:green;
 width:33.33%;
 height:333px;
+box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
 .contact:hover{
 background-color:#000;
@@ -51,7 +55,7 @@ background: linear-gradient(pink,blue);
 color:green;
 width:33.33%;
 height:333px;
-
+box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 }
 .photo:hover{
 background:gray;
