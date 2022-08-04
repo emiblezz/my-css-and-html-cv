@@ -10,7 +10,7 @@
    }   
 .bio {
 background-color: red;
-width:650px;
+width:200%;
 padding:15px 25px;
 height:333px;
 color:blue;
