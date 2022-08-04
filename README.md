@@ -11,7 +11,7 @@
 .bio {
 background-color: red;
 width:100%;
-padding:20px 30px;
+padding:15px 25px;
 height:333px;
 color:blue;
 margin: 0px;
@@ -43,7 +43,7 @@ width:50%;
 height:333px;
 padding:15px 25px;   
 margin: 10px;
-margin-left: 300px;
+margin-left: 375px;
 bottom: 10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
@@ -57,7 +57,7 @@ width:50%;
 height:333px;
 padding:15px 25px;   
 margin: 10px;
-margin-left: 0px;
+margin-left: 375px;
 bottom: 10px;   
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
@@ -71,7 +71,7 @@ width:50%;
 height:333px;
 padding:15px 25px;   
 margin: 10px;
-margin-left: 400px;
+margin-left: 375px;
 bottom: 10px;   
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 }
