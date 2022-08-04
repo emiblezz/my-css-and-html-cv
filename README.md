@@ -4,12 +4,13 @@
 .Container {
    display: flex;
    flex-direction:row;
+   flex-wrap: wrap;
    width: 100%;
    height: auto;
    }   
 .bio {
 background-color: red;
-width:33.33%;
+width:50%;
 height:333px;
 color:blue;
 margin: 10px;
@@ -22,7 +23,7 @@ background-color:green;
 .education{
 background-color: #fff000;
 color:#00ff00;
-width:33.33%;
+width:50%;
 height:333px;
 margin: 10px; 
 bottom: 10px;   
@@ -34,7 +35,7 @@ background-color:pink;
 .hobbies{
 background-color: gray;
 color:#fff000;
-width:33.33%;
+width:50%;
 height:333px;
 margin: 10px;
 bottom: 10px;
@@ -46,7 +47,7 @@ background-color:chocolate;
 .contact{
 background-color: purple;
 color:green;
-width:33.33%;
+width:50%;
 height:333px;
 margin: 10px;
 bottom: 10px;   
@@ -58,7 +59,7 @@ background-color:#000;
 .photo{
 background: linear-gradient(pink,blue);
 color:green;
-width:33.33%;
+width:50%;
 height:333px;
 margin: 10px;
 bottom: 10px;   
