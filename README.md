@@ -66,7 +66,7 @@ color:green;
 width:50%;
 height:333px;
 margin: 10px;
-margin-left: 650px;
+margin-left: 400px;
 bottom: 10px;   
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 }
