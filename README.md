@@ -43,7 +43,7 @@ width:50%;
 height:333px;
 padding:15px 25px;   
 margin: 10px;
-margin-left: 100px;
+margin-left: 300px;
 bottom: 10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
