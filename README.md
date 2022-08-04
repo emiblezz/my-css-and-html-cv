@@ -1,8 +1,6 @@
 
 <html lang="en">
-<!-- my in-line css code-->
 <style>
-<!-- the main div -->
 .Container {
    display: flex;
    flex-direction:row;
@@ -71,17 +69,12 @@ background:gray;
 }
 
 </style>
-<!-- the heading -->
 <head>
    <meta charset="UTF-8">
    <link rel="shortcut icon" type="image/png" href="https://media-exp2.licdn.com/dms/image/C5603AQEjlsgLPej7wA/profile-displayphoto-shrink_200_200/0/1624454506617?e=2147483647&v=beta&t=0vVF6Jpprc4wJWm1BXVWp_OyJB-Kv1D9eGKx4Pd_big">
 </head>
-<!-- the body -->
 <body>
-<!-- this div is the main div container -->
 <div class="Container">
-<!-- the children div begin from here -->
-   
 <a href="https://emiblezz.github.io/my-Bio-Data/">
 <div class="bio">
 <h>MY PERSONAL INFORMATION</h>
