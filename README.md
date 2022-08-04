@@ -7,7 +7,7 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction: row;
+   flex-direction: column;
    flex-wrap: wrap;
    justify-content: flex-start:
    flex-flow: right;
@@ -18,6 +18,8 @@ width:33.33%;
 height:333px;
 color:blue;
 margin:10px;
+right:330px;
+left:330px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
 
@@ -29,6 +31,8 @@ background-color:green;
 background-color: #fff000;
 color:#00ff00;
 margin:10px;
+right:330px;
+left:330px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -42,6 +46,8 @@ background-color: gray;
 color:#fff000;
 width:33.33%;
 margin:10px;
+right:330px;
+left:330px;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 text-align: center;
@@ -53,6 +59,8 @@ background-color:chocolate;
 background-color: purple;
 color:green;
 margin:10px;
+right:330px;
+left:330px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -65,6 +73,8 @@ background-color:#000;
 background: linear-gradient(pink,blue);
 color:green;
 margin:10px;
+right:330px;
+left:330px;
 width:33.33%;
 height:333px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
@@ -92,29 +102,29 @@ background:gray;
 </div>
 </a>
 
-   <a href="https://emiblezz.github.io/my-photo/">
-   <div class="photo">
-   <h>MY PHOTO</h>
-   </div>
-   </a>
+<a href="https://emiblezz.github.io/my-photo/">
+<div class="photo">
+<h>MY PHOTO</h>
+</div>
+</a>
    
-   <a href="https://emiblezz.github.io/my-education/">
-      <div class="education">
-      <h>MY EDUCATION BACKGROUND</h>
-      </div>
-      </a>
+<a href="https://emiblezz.github.io/my-education/">
+<div class="education">
+<h>MY EDUCATION BACKGROUND</h>
+</div>
+</a>
       
-      <a href="https://emiblezz.github.io/hobbies/">
-         <div class="hobbies">
-         <h>MY HOBBIES</h>
-          </div>
-         </a>
+<a href="https://emiblezz.github.io/hobbies/">
+<div class="hobbies">
+<h>MY HOBBIES</h>
+</div>
+</a>
         
-         <a href="https://emiblezz.github.io/CONTACTS-FORM/">
-            <div class="contact">
-            <h>CONTACT US</h>
-            </div>
-         </a>
+<a href="https://emiblezz.github.io/CONTACTS-FORM/">
+<div class="contact">
+<h>CONTACT US</h>
+</div>
+</a>
             
 </div>
 </body>
