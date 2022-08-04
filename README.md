@@ -7,7 +7,7 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction: row;
+   flex-direction: row-reverse;
    flex-wrap: wrap;
    justify-content: flex-start;
    
