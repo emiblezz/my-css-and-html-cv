@@ -5,7 +5,7 @@
 <!-- the main div -->
 .Container {
    display: flex;
-   flex-direction: row;
+   flex-direction:column;
    width: 100%;
    height: auto;
    }   
