@@ -3,6 +3,12 @@
 <!-- my in-line css code-->
 <style>
 <!-- the main div -->
+.Container {
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   height: auto;
+   }   
 .bio {
 background-color: red;
 width:33.33%;
@@ -73,7 +79,7 @@ background:gray;
 <!-- the body -->
 <body>
 <!-- this div is the main div container -->
-<div class="container">
+<div class="Container">
 <!-- the children div begin from here -->
 <a href="https://emiblezz.github.io/my-Bio-Data/">
 
