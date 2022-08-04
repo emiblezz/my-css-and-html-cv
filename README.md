@@ -7,9 +7,7 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction: row-reverse;
-   flex-wrap: wrap;
-   justify-content: flex-start;
+   flex-direction: row;
    box-shadow:0px 10px 10px rgba(0,0,0,0.6);
    } 
 .bio {
