@@ -87,31 +87,26 @@ background:gray;
 <h>MY PERSONAL INFORMATION</h>
 </div>
 </a>
-
 <a href="https://emiblezz.github.io/my-photo/">
 <div class="photo">
 <h>MY PHOTO</h>
 </div>
 </a>
-   
 <a href="https://emiblezz.github.io/my-education/">
 <div class="education">
 <h>MY EDUCATION BACKGROUND</h>
 </div>
-</a>
-      
+</a>   
 <a href="https://emiblezz.github.io/hobbies/">
 <div class="hobbies">
 <h>MY HOBBIES</h>
 </div>
-</a>
-        
+</a>      
 <a href="https://emiblezz.github.io/CONTACTS-FORM/">
 <div class="contact">
 <h>CONTACT US</h>
 </div>
 </a>
-            
 </div>
 </body>
 </html>
