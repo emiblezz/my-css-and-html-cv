@@ -7,36 +7,25 @@
    width: 100%;
    height: auto;
    display: flex;
-   flex-direction: row-reverse;
+   flex-direction: row;
    flex-wrap: wrap;
    justify-content: flex-start;
-   
-} 
+   box-shadow:0px 10px 10px rgba(0,0,0,0.6);
+   } 
 .bio {
 background-color: red;
 width:33.33%;
 height:333px;
 color:blue;
-margin:10px;
-right:330px;
-left:330px;
-box-shadow:0px 10px 10px rgba(0,0,0,0.6);
-text-align: center;
-
-} 
+   } 
 .bio:hover{
 background-color:green;
 }
 .education{
 background-color: #fff000;
 color:#00ff00;
-margin:10px;
-right:330px;
-left:330px;
 width:33.33%;
 height:333px;
-box-shadow:0px 10px 10px rgba(0,0,0,0.6);
-text-align: center;
 }
 .education:hover{
 background-color:pink;
@@ -45,12 +34,7 @@ background-color:pink;
 background-color: gray;
 color:#fff000;
 width:33.33%;
-margin:10px;
-right:330px;
-left:330px;
 height:333px;
-box-shadow:0px 10px 10px rgba(0,0,0,0.6);
-text-align: center;
 }
 .hobbies:hover{
 background-color:chocolate;
@@ -58,13 +42,8 @@ background-color:chocolate;
 .contact{
 background-color: purple;
 color:green;
-margin:10px;
-right:330px;
-left:330px;
 width:33.33%;
 height:333px;
-box-shadow:0px 10px 10px rgba(0,0,0,0.6);
-text-align: center;
 }
 .contact:hover{
 background-color:#000;
@@ -72,13 +51,9 @@ background-color:#000;
 .photo{
 background: linear-gradient(pink,blue);
 color:green;
-margin:10px;
-right:330px;
-left:330px;
 width:33.33%;
 height:333px;
-box-shadow:0px 10px 10px rgba(0,0,0,0.6);
-text-align: center;
+
 }
 .photo:hover{
 background:gray;
