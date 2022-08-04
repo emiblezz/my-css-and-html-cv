@@ -14,6 +14,7 @@ width:50%;
 height:333px;
 color:blue;
 margin: 10px;
+margin-left: 500px;
 bottom: 10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
    } 
@@ -25,7 +26,8 @@ background-color: #fff000;
 color:#00ff00;
 width:50%;
 height:333px;
-margin: 10px; 
+margin: 10px;
+margin-left: 500px;
 bottom: 10px;   
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
@@ -38,6 +40,7 @@ color:#fff000;
 width:50%;
 height:333px;
 margin: 10px;
+margin-left: 500px;
 bottom: 10px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
@@ -50,6 +53,7 @@ color:green;
 width:50%;
 height:333px;
 margin: 10px;
+margin-left: 500px;
 bottom: 10px;   
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
 }
@@ -62,6 +66,7 @@ color:green;
 width:50%;
 height:333px;
 margin: 10px;
+margin-left: 500px;
 bottom: 10px;   
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);
 }
