@@ -11,6 +11,7 @@
 .bio {
 background-color: red;
 width:100%;
+padding:15px 25px;
 height:333px;
 color:blue;
 margin: 0px;
