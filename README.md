@@ -13,9 +13,9 @@ background-color: red;
 width:100%;
 height:333px;
 color:blue;
-margin: 10px;
+margin: 0px;
 margin-left: 0px;
-bottom: 10px;
+bottom: 0px;
 box-shadow:0px 10px 10px rgba(0,0,0,0.6);   
    } 
 .bio:hover{
