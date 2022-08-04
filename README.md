@@ -3,10 +3,6 @@
 <!-- my in-line css code-->
 <style>
 <!-- the main div -->
-.container{
-   width: 100%;
-   height: auto;
-   } 
 .bio {
 background-color: red;
 width:33.33%;
