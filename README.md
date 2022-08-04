@@ -9,8 +9,8 @@
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   justify-content: flex-start:
-   flex-flow: right;
+   justify-content: flex-start;
+   
 } 
 .bio {
 background-color: red;
